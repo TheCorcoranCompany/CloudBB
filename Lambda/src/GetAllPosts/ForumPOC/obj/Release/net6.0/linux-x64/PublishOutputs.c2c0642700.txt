@@ -1,0 +1,11 @@
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\GetAllPosts.deps.json
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\GetAllPosts.runtimeconfig.json
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\GetAllPosts.pdb
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\CloudBBLibrary.dll
+C:\Users\k2323\source\repos\ForumPOC\ForumPOC\bin\Release\net6.0\publish\GetAllPosts.dll

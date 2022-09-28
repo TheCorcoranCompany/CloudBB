@@ -1,0 +1,12 @@
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\bin\Debug\net6.0\CloudBBLibrary.deps.json
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\bin\Debug\net6.0\CloudBBLibrary.dll
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\bin\Debug\net6.0\CloudBBLibrary.pdb
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\CloudBBLibrary.csproj.AssemblyReference.cache
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\CloudBBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\CloudBBLibrary.AssemblyInfoInputs.cache
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\CloudBBLibrary.AssemblyInfo.cs
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\CloudBBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\CloudBBLibrary.dll
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\refint\CloudBBLibrary.dll
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\CloudBBLibrary.pdb
+C:\Users\k2323\source\repos\CloudBBLibrary\CloudBBLibrary\obj\Debug\net6.0\ref\CloudBBLibrary.dll

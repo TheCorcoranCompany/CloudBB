@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JM8qrAA7s5/qpBFdHCF+8GwV9loVXld8zJHIzesGlNYLhKaT8OWkWLOlmM7Fl1FsYOfN4o635Ej2ujXV/nyrZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\k2323\\source\\repos\\CloudBB\\Lambda\\src\\GetAllPosts\\ForumPOC\\GetAllPosts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k2323\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
+    "C:\\Users\\k2323\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\k2323\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\k2323\\.nuget\\packages\\awssdk.core\\3.7.12.17\\awssdk.core.3.7.12.17.nupkg.sha512",
+    "C:\\Users\\k2323\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.64\\awssdk.dynamodbv2.3.7.3.64.nupkg.sha512",
+    "C:\\Users\\k2323\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\k2323\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.7\\microsoft.netcore.app.crossgen2.win-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CloudBBLibrary/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.5.7"
+        },
+        "runtime": {
+          "CloudBBLibrary.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.13.11": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.13.11"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.5.7": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.13.11"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.5.7"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudBBLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.13.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lAp9roZfDR0xlmJ4Dfohdd0wJmDgguGUsgdXcuDML84fpg1vo2LzUDo9O+gaSjMST2RqsXQ9QsYZa8oe5C+BfA==",
+      "path": "awssdk.core/3.7.13.11",
+      "hashPath": "awssdk.core.3.7.13.11.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.5.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kLOqaNTUMSv/o1mCIvnkvbVZ64emRxXMKZ+1cOejIkMT2Mods8djHVwFz4ExRpO01tQQ8nsAnekFUTU4ewfyew==",
+      "path": "awssdk.dynamodbv2/3.7.5.7",
+      "hashPath": "awssdk.dynamodbv2.3.7.5.7.nupkg.sha512"
+    }
+  }
+}

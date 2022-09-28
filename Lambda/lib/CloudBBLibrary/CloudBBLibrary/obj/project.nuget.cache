@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdME16DU4Y0bPPOdikdork+oxMctq92gDd8Ly1oM6/PpEKN7uWIk6BzHKdYRNOnYBKeOwP1/kTV2ztTce1HN4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\k2323\\source\\repos\\CloudBBLibrary\\CloudBBLibrary\\CloudBBLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k2323\\.nuget\\packages\\awssdk.core\\3.7.13.11\\awssdk.core.3.7.13.11.nupkg.sha512",
+    "C:\\Users\\k2323\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.5.7\\awssdk.dynamodbv2.3.7.5.7.nupkg.sha512"
+  ],
+  "logs": []
+}
